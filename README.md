@@ -52,3 +52,4 @@ Conclusion:
 
 The results of all the test cases will be displayed in the console. The Extent report of the project will be generated once the automation gets completed. All the screenshots will be available in the “Screenshot” folder. 
 
+
